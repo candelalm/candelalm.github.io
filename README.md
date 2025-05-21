@@ -4,7 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 ## 1 Datos
 Titulo : MI Proyecto(nombre)
 
-Web: [(url github.io)](https://candelalm.github.io/)
+Web: https://candelalm.github.io/
 
 Autor: Candela López Marín
 
