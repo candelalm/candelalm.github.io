@@ -32,18 +32,19 @@ Instagram:@txethy
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Al abrir la página, aparece una breve animación que presenta e introduce al usuario en el porfolio, tras eso, queda una imagen fija con dos botones, uno que lleva a la sección "sobre mí" y otro que conduce hacia el primer menú. En este menú en forma de conexiones neuronales, podemos ver varios botones que, al ser pulsados, llevan a varias secciones dentro del porfolio en las que ya si se muestran mis trabajos. Uno de esos botones, conduce al segundo menú, con forma de intestinos.
 
 ### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
+![Esquema de navegación de las diferentes páginas del porfolio](https://github.com/candelalm/candelalm.github.io/blob/main/assets/esquema.jpg)
 
 ## 3. Metodología
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque 
+Este proyecto es interesante porque no es un porfolio perfectamente linear, tiene una temática que se relaciona directamente a mi identidad artística y ofrece cierta interactividad para no resultar aburrido.
 
-Orientado a .. (Público)
+Orientado a cualquier franja de edad, quizá, por sus colores y demás personas algo más jóvenes. En general, cualquier persona que pueda mostrar interes por mi trabajo.
 
 Etapa 2: Desarrollo / actividades realizadas
 
