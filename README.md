@@ -2,34 +2,33 @@
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : Portfolio personal artístico
 
 Web: https://candelalm.github.io/
 
 Autor: Candela López Marín
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : Este proyecto tiene la utilidad de mostrar de manera clara, pero interactiva mi trabajo, clasificado en diferentes ramas y de manera "dibertida", buscando rememorar las páginas web de principios de los 2000, inspirandome en otras páginas que habitan dentro del portal "Neocities"
 
 Estilo/género: Portfolio
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
+Logotipo : 
 
-(insertar imágenes a resolucion de 100px alto)
+LOGO TXETHY.jpg
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+Resolución: 600x400px responsivo
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Probado en: MS Edge y móviles android 
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 11,5MB
 
-Fecha : 14/05/2025
+Fecha : 28/05/2025
 
-Medios (donde se tiene presencia relacionada):
+Medios:
 
-Github:
-Twitter:
-Instagram:
-Tiktok:
+Github:candelalm
+Twitter:@txethy
+Instagram:@txethy
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
@@ -42,7 +41,7 @@ Tiktok:
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque ...
+Este proyecto es interesante porque 
 
 Orientado a .. (Público)
 
