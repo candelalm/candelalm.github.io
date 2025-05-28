@@ -14,7 +14,7 @@ Estilo/género: Portfolio
 
 Logotipo : 
 
-LOGO TXETHY.jpg
+![Logotipo rojo y negro de un diente que tiene una espada clavado, en su interior, aparecen las letras "T" y "X"](https://github.com/candelalm/candelalm.github.io/blob/main/assets/LOGO%20TXETHY.jpg)
 
 Resolución: 600x400px responsivo
 
