@@ -1,4 +1,4 @@
-# (Nombre del proyecto)
+# Portfolio personal artístico
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
@@ -18,7 +18,7 @@ Logotipo :
 
 Resolución: 600x400px responsivo
 
-Probado en: MS Edge y móviles android 
+Probado en: MS Edge, Google Chrome y móviles android 
 
 Tamaño proyecto: 11,5MB
 
@@ -26,8 +26,8 @@ Fecha : 28/05/2025
 
 Medios:
 
-Github:candelalm
-Twitter:@txethy
+Github:candelalm </br>
+Twitter:@txethy </br>
 Instagram:@txethy
 
 ## 2. Memoria del proyecto
@@ -36,7 +36,7 @@ Al abrir la página, aparece una breve animación que presenta e introduce al us
 
 ### 2.2. Esquema de navegación
 
-![Esquema de navegación de las diferentes páginas del porfolio](https://github.com/candelalm/candelalm.github.io/blob/main/assets/esquema.jpg)
+![Esquema de navegación de las diferentes páginas del porfolio](https://github.com/candelalm/candelalm.github.io/blob/main/assets/esquema%20navegaci%C3%B3n.jpg)
 
 ## 3. Metodología
 
@@ -48,25 +48,32 @@ Orientado a cualquier franja de edad, quizá, por sus colores y demás personas 
 
 Etapa 2: Desarrollo / actividades realizadas
 
-Video
-Instrucciones y ayuda al usuario
-Menús y elementos de navegación (botones)
-etc.
-Etapa 3: Problemas identificados
-(que consideras que no funciona correctamente y por qué )
+Todas las actividades que hemos realizado en la asignatura estan integradas en mi proyecto, desde lo más básico de uso de botones y escenas, pasando por carruseles de imágenes y función de audio hasta la parte de la programación compleja. </br>
+
+Para que todo quedase más claro a la hora de navegar en la página, he mantenido una paleta de colores limitada a apenas 3 tonos: negro, verde y rojo. </br>
+De esta manera, en cada menú predomina uno de esos colores y utilizo el otro para que los botones destaquen. Creo que la mayoría de cosas e interacciones son bastante intuitivas, ya que la mayoría consiste en pulsar botones para pasar escenas y demás. La única parte que cuenta con ciertas instrucciones es la de la pizarra, en la que queda indicado todo lo necesario para ser utilizada.
+
+
+Etapa 3: Problemas identificados </br>
+Haciendo pruebas de la página con diferentes dispositivos, he podido comprobar que la parte de la pizarra no es del todo funcional en aparatos móviles, ya que necesita de interacción con el teclado para cambiar el color, solo pudiendo utilizar el verde, que es el predeterminado.
 
 ## 4. Conclusiones
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+
+He disfrutado mucho realizando este proyecto, siempre he querido tener un porfolio personalizado y con las diferentes herramientas que hemos aprendido he podido conseguirlo. De cara a futuro me encantaría poder seguir completando y expandiendo esta página según crezca mi obra, además quiero arreglar cualquier error que surja, como el mencionado en el apartado anterior. En cuanto a mi propia experiencia, creo que el proyecto me ha servido para explorar y descubrir que esto es algo que me interesa y que, por lo menos, según todo el trabajo realizado, no me resulta demasiado complicado
 
 ## 5 Referencias
-**Artículos y blogs **
 
-Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new technology in search of viable business modelsFirst Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-Recursos y materiales audiovisuales:
+### Inspiración
+https://neocities.org/</br>
+https://fauux.neocities.org/</br>
+https://vegacollective.com/
+
+
 
 **Hippani Animator 5.1**
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
-https://creativecommons.org/licenses/?lang=es
+![Imagen de la licencia](https://github.com/candelalm/candelalm.github.io/blob/main/assets/CC-BY-NC-SA-4.0.jpg)
+
+[https://creativecommons.org/licenses/?lang=es](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Mayo 2025
