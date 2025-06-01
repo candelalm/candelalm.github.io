@@ -20,7 +20,7 @@ Resolución: 600x400px responsivo
 
 Probado en: MS Edge, Google Chrome y móviles android 
 
-Tamaño proyecto: 115MB
+Tamaño proyecto: 155MB
 
 Fecha : 01/06/2025
 
