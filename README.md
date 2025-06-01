@@ -6,7 +6,7 @@ Titulo : Portfolio personal artístico
 
 Web: https://candelalm.github.io/
 
-Autor: Candela López Marín
+Autor: Candela López Marín (Txethy)
 
 Resumen : Este proyecto tiene la utilidad de mostrar de manera clara, pero interactiva mi trabajo, clasificado en diferentes ramas y de manera "dibertida", buscando rememorar las páginas web de principios de los 2000, inspirandome en otras páginas que habitan dentro del portal "Neocities"
 
@@ -20,9 +20,9 @@ Resolución: 600x400px responsivo
 
 Probado en: MS Edge, Google Chrome y móviles android 
 
-Tamaño proyecto: 11,5MB
+Tamaño proyecto: 115MB
 
-Fecha : 28/05/2025
+Fecha : 01/06/2025
 
 Medios:
 
