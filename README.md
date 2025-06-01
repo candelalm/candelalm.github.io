@@ -4,7 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 ## 1 Datos
 Titulo : Portfolio personal artístico
 
-Web: https://candelalm.github.io/
+Web: [Porfolio](https://candelalm.github.io/txethy.github.io/)
 
 Autor: Candela López Marín (Txethy)
 
